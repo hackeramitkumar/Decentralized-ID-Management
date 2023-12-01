@@ -1,25 +1,10 @@
 # DecentralID
-<a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=24px> </a>
-![Version](https://img.shields.io/badge/version-1.69-brightgreen.svg)
-![Optimization](https://img.shields.io/badge/optimised-0%25-critical.svg)
-![Built with Love](https://img.shields.io/badge/built%20with-love-important.svg)
-![Designing](https://img.shields.io/badge/designed%20in-ms%20paint-blueviolet.svg)
 
-This project was developed by us, **Team ECMAniacs**, as a submission for [Hack36 6.0](https://www.hack36.com/)
-
-*UPDATE* - We went on to win 1st position in this hackathon, our [Devfolio Project Link](https://devfolio.co/projects/decentralid-a6db) 
-
-
-## Resources
-- [PPT](https://docs.google.com/presentation/d/1fDOJagdUc-62sfzt8al91WkodRhC2Zv7d_QZ0y-s-NQ/edit?usp=sharing)
-- [Video Demo](https://youtu.be/zDhHoVL1Ed8)
-
-## Team ECMAniacs
-- [Aqib Suhail](https://github.com/geeqib23)
-- [Dennis Thomas](https://github.com/DNA5769)
-- [Kushagra Sharma](https://github.com/randomkush)
-- [Akash Kandasamy](https://github.com/akash-kd)
-
+## Team Members
+- Amit Kumar
+- Aditya Srivastava
+- Apoorv Pranjal
+- Ashutosh Kumar
 
 ---
 
